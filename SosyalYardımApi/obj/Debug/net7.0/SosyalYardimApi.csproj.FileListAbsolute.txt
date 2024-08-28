@@ -1,0 +1,5 @@
+C:\Users\dilay\Desktop\udemy\SosyalYardımApi\SosyalYardımApi\obj\Debug\net7.0\SosyalYardimApi.csproj.AssemblyReference.cache
+C:\Users\dilay\Desktop\udemy\SosyalYardımApi\SosyalYardımApi\obj\Debug\net7.0\SosyalYardimApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilay\Desktop\udemy\SosyalYardımApi\SosyalYardımApi\obj\Debug\net7.0\SosyalYardimApi.AssemblyInfoInputs.cache
+C:\Users\dilay\Desktop\udemy\SosyalYardımApi\SosyalYardımApi\obj\Debug\net7.0\SosyalYardimApi.AssemblyInfo.cs
+C:\Users\dilay\Desktop\udemy\SosyalYardımApi\SosyalYardımApi\obj\Debug\net7.0\SosyalYardimApi.csproj.CoreCompileInputs.cache
